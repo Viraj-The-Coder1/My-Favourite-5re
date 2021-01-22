@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#myimg {
+    border-radius: 55%;
+    width: 155px;
+}
+
+#head1 {
+    color: dodgerblue;
+    text-shadow: 2px 2px;
+}
+
+#head2 {
+    color: darkviolet;
+    font-family: 'Padauk', sans-serif;
+}
+
+#home {
+    background: linear-gradient(#E1BEE7 0%, #90caf9 100%);
+}
+
+#about {
+    background: linear-gradient(#1565C0 0%, #2E7D32 100%);
+}
+
+.links {
+    color: darkslateblue;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: cornsilk;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#head3 {
+    color: darkorchid;
+}
+
+#head4 {
+    color: fuchsia;
+}
+
+#head5 {
+    color: darkgreen;
+}
+
+#head6 {
+    color: darkorchid;
+}
+
+#para1 {
+    color: firebrick;
+}
+#para2{
+    color: darksalmon;
+}
+#head6{
+    color:cadetblue;
+}
